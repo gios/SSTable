@@ -12,3 +12,7 @@ SSTable - demonstration application;
 1) First click doesn't work;
 2) May click on the head of table;
 ```
+
+### SSTable: Version
+0.8
+---
