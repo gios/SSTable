@@ -1,3 +1,6 @@
+/*SSTable
+	version: 0.8;
+*/
 "use strict";
 
 $(function() {
