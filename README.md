@@ -14,5 +14,5 @@ SSTable - demonstration application;
 ```
 
 ### SSTable: Version
-0.8
+####0.8
 ---
